@@ -4,7 +4,7 @@ EyesAsia
 Inspired by ProPublica's [StateFace](http://propublica.github.io/stateface/), *EyesAsia* is a similar font, but for East Asian countries. It also includes shapes for China's provinces (Administration Level 1).
 
 ## Reference
-Lowercase shapes
+### Lowercase shapes
 - a: Shanghai 上海
 - b: Beijing 北京
 - c: Chongqing 重庆
@@ -19,7 +19,7 @@ Lowercase shapes
 - p: Shaanxi 陕西省
 - q: Shanxi 山西省
 
-Uppercase shapes ("T" does not represent any province):
+### Uppercase shapes ("T" does not represent any province):
 - A: Tibet 西藏自治区
 - B: Xinjiang 新疆维吾尔自治区
 - C: Inner Mongolia 内蒙古自治区
