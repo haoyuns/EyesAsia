@@ -5,6 +5,9 @@ Inspired by [ProPublica's StateFace](http://propublica.github.io/stateface/), *E
 
 ## Reference
 #### Lowercase shapes
+```
+Countries in East Asia are included in the list below.
+```
 - a: Shanghai 上海
 - b: Beijing 北京
 - c: Chongqing 重庆
@@ -21,7 +24,7 @@ Inspired by [ProPublica's StateFace](http://propublica.github.io/stateface/), *E
 
 #### Uppercase shapes
 ```
-"T" does not represent any province
+"T" does not represent any province.
 ```
 - A: Tibet 西藏自治区
 - B: Xinjiang 新疆维吾尔自治区
