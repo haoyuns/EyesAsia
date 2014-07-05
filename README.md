@@ -19,7 +19,10 @@ Inspired by [ProPublica's StateFace](http://propublica.github.io/stateface/), *E
 - p: Shaanxi 陕西省
 - q: Shanxi 山西省
 
-#### Uppercase shapes ("T" does not represent any province):
+#### Uppercase shapes
+```
+"T" does not represent any province
+```
 - A: Tibet 西藏自治区
 - B: Xinjiang 新疆维吾尔自治区
 - C: Inner Mongolia 内蒙古自治区
