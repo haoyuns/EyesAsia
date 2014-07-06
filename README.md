@@ -3,6 +3,8 @@ EyesAsia
 
 Inspired by [ProPublica's StateFace](http://propublica.github.io/stateface/), *EyesAsia* is a similar font, but for East Asian countries. It also includes shapes for China's provinces (Administrative Level 1).
 
+EyesAsia是一款“地图”字体，内含的形状包括中国一级行政区（省、直辖市、自治区、特别行政区），最大咸水湖（青海湖），四大淡水湖（鄱阳湖、洞庭湖、太湖、洪泽湖），以及日本、朝鲜、韩国等几个东亚国家。
+
 ### A glimpse of things included
 ```
 "T" does not represent any province.
