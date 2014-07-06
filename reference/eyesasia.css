@@ -1,0 +1,192 @@
+.eyesasia:before {
+    font-family: EyesAsiaRegular;
+    margin-right: 5px;
+}
+
+.eyesasia-replace {
+    text-indent: -999em;
+    display: inline-block;
+    position: relative;
+    min-width: 1em;
+}
+
+.eyesasia-replace:before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    text-indent: 0;
+}
+
+.eyesasia-tibet:before {
+    content: "A";
+}
+
+.eyesasia-xinjiang:before {
+    content: "B";
+}
+
+.eyesasia-innermongolia:before {
+    content: "C";
+}
+
+.eyesasia-ningxia:before {
+    content: "D";
+}
+
+.eyesasia-guangxi:before {
+    content: "E";
+}
+
+.eyesasia-fujian:before {
+    content: "F";
+}
+
+.eyesasia-gansu:before {
+    content: "G";
+}
+
+
+.eyesasia-hainan:before {
+    content: "H";
+}
+
+.eyesasia-guizhou:before {
+    content: "I";
+}
+
+.eyesasia-jiangsu:before {
+    content: "J";
+}
+
+.eyesasia-anhui:before {
+    content: "K";
+}
+
+.eyesasia-jiangxi:before {
+    content: "L";
+}
+
+.eyesasia-hubei:before {
+    content: "M";
+}
+
+.eyesasia-hunan:before {
+    content: "N";
+}
+
+.eyesasia-guangdong:before {
+    content: "O";
+}
+
+.eyesasia-hebei:before {
+    content: "P";
+}
+
+.eyesasia-qinghai:before {
+    content: "Q";
+}
+
+.eyesasia-henan:before {
+    content: "R";
+}
+
+.eyesasia-sichuan:before {
+    content: "S";
+}
+
+
+.eyesasia-heilongjiang:before {
+    content: "U";
+}
+
+.eyesasia-jilin:before {
+    content: "V";
+}
+
+.eyesasia-liaoning:before {
+    content: "W";
+}
+
+.eyesasia-shandong:before {
+    content: "X";
+}
+
+.eyesasia-yunnan:before {
+    content: "Y";
+}
+
+.eyesasia-zhejiang:before {
+    content: "Z";
+}
+
+.eyesasia-shanghai:before {
+    content: "a";
+}
+
+.eyesasia-beijing:before {
+    content: "b";
+}
+
+.eyesasia-chongqing:before {
+    content: "c";
+}
+
+.eyesasia-tianjin:before {
+    content: "d";
+}
+
+.eyesasia-hongkong:before {
+    content: "e";
+}
+
+.eyesasia-macau:before {
+    content: "f";
+}
+
+.eyesasia-japan:before {
+    content: "j";
+}
+
+.eyesasia-mongolia:before {
+    content: "m";
+}
+
+.eyesasia-nk:before {
+    content: "n";
+}
+
+.eyesasia-shaanxi:before {
+    content: "p";
+}
+
+.eyesasia-shanxi:before {
+    content: "q";
+}
+
+.eyesasia-sk:before {
+    content: "s";
+}
+
+.eyesasia-taiwan:before {
+    content: "t";
+}
+
+.eyesasia-qinghaihu:before {
+    content: "v";
+}
+
+.eyesasia-boyanghu:before {
+    content: "w";
+}
+
+.eyesasia-dongtinghu:before {
+    content: "x";
+}
+
+.eyesasia-taihu:before {
+    content: "y";
+}
+
+.eyesasia-hongzehu:before {
+    content: "z";
+}
