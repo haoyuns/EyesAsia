@@ -4,6 +4,29 @@ EyesAsia
 Inspired by [ProPublica's StateFace](http://propublica.github.io/stateface/), *EyesAsia* is a similar font, but for East Asian countries. It also includes shapes for China's provinces (Administrative Level 1).
 
 ## Reference
+
+lowercase | Content | UPPERCASE | Content
+------------ | ------------- | ------------ | -------------
+a | Shanghai 上海 | A | Tibet 西藏
+b | Beijing 北京 | B | 
+c | Chongqing 重庆 | C | Tibet 西藏
+d | Tianjian 天津 | D | 
+e | Hong Kong 香港 | E | Tibet 西藏
+f | Macau 澳门 | F | 
+j | Japan 日本 | G | Tibet 西藏
+m | Mongolia 蒙古 | H |  
+n | North Korea 朝鲜 | I |
+s | South Korea 韩国 | J |
+t | Taiwan 台湾 | K |
+p | Shaanxi 陕西省 | L |
+q | Shanxi 山西省 | M |
+v | Qinghaihu Lake 青海湖 | N |
+w | Boyanghu Lake 鄱阳湖 | O |
+x | Dongtinghu Lake 洞庭湖| P |
+y | Taihu Lake 太湖 | Q |
+z | Hongzehu Lake 洪泽湖 | R |
+
+
 #### Lowercase shapes
 ```
 Countries in East Asia are included in the list below.
