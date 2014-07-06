@@ -3,7 +3,7 @@ EyesAsia
 
 Inspired by [ProPublica's StateFace](http://propublica.github.io/stateface/), *EyesAsia* is a similar font, but for East Asian countries. It also includes shapes for China's provinces (Administrative Level 1).
 
-## Reference Table
+### A glimpse of things included
 ```
 "T" does not represent any province.
 ```
