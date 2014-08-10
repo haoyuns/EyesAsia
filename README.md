@@ -12,6 +12,7 @@ EyesAsia是一款“地图”字体，内含的形状包括中国一级行政区
 具体使用说明[请戳这里](http://haoyuns.github.io/posts/EyesAsiaChinese.html)。
 
 *部分初始素材来源：[国家测绘地理信息局/400万政区版](http://219.238.166.215/mcp/index.asp)*
+*08.10.14：更正青海省形状*
 
 ### A glimpse of things included
 ```
