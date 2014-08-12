@@ -33,7 +33,7 @@ m | Mongolia 蒙古 | H | Hainan 海南省
 n | North Korea 朝鲜 | I | Guizhou 贵州省
 s | South Korea 韩国 | J | Jiangsu 江苏省
 t | Taiwan 台湾 | K | Anhui 安徽省
-p | Shaanxi 陕西省 | L | Jiangxi 江西省
+p | Shanxi 陕西省 | L | Jiangxi 江西省
 q | Shanxi 山西省 | M | Hubei 湖北省
 v | *Qinghaihu Lake 青海湖* | N | Hunan 湖南省
 w | *Boyanghu Lake 鄱阳湖* | O | Guangdong 广东省
