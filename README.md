@@ -31,7 +31,7 @@ f | Macau 澳门 | F | Fujian 福建省
 j | Japan 日本 | G | Gansu 甘肃省
 m | Mongolia 蒙古 | H | Hainan 海南省 
 n | North Korea 朝鲜 | I | Guizhou 贵州省
-p | Shanxi 陕西省 | J | Jiangsu 江苏省
+p | Shaanxi 陕西省 | J | Jiangsu 江苏省
 q | Shanxi 山西省 | K | Anhui 安徽省
 s | South Korea 韩国 | L | Jiangxi 江西省
 t | Taiwan 台湾 | M | Hubei 湖北省
