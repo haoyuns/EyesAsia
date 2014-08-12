@@ -31,16 +31,16 @@ f | Macau 澳门 | F | Fujian 福建省
 j | Japan 日本 | G | Gansu 甘肃省
 m | Mongolia 蒙古 | H | Hainan 海南省 
 n | North Korea 朝鲜 | I | Guizhou 贵州省
-s | South Korea 韩国 | J | Jiangsu 江苏省
-t | Taiwan 台湾 | K | Anhui 安徽省
-p | Shanxi 陕西省 | L | Jiangxi 江西省
-q | Shanxi 山西省 | M | Hubei 湖北省
-v | *Qinghaihu Lake 青海湖* | N | Hunan 湖南省
-w | *Boyanghu Lake 鄱阳湖* | O | Guangdong 广东省
-x | *Dongtinghu Lake 洞庭湖* | P | Hebei 河北省
-y | *Taihu Lake 太湖* | Q | Qinghai 青海省
-z | *Hongzehu Lake 洪泽湖* | R | Henan 河南省
-  | | S | Sichuan 四川省
+p | Shanxi 陕西省 | J | Jiangsu 江苏省
+q | Shanxi 山西省 | K | Anhui 安徽省
+s | South Korea 韩国 | L | Jiangxi 江西省
+t | Taiwan 台湾 | M | Hubei 湖北省
+u | America 美国 | N | Hunan 湖南省
+v | *Qinghaihu Lake 青海湖* | O | Guangdong 广东省
+w | *Boyanghu Lake 鄱阳湖* | P | Hebei 河北省
+x | *Dongtinghu Lake 洞庭湖* | Q | Qinghai 青海省
+y | *Taihu Lake 太湖* | R | Henan 河南省
+z | *Hongzehu Lake 洪泽湖* | S | Sichuan 四川省
   | | U | Heilongjiang 黑龙江省
   | | V | Jilin 吉林省
   | | W | Liaoning 辽宁省
