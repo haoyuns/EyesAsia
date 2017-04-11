@@ -40,13 +40,13 @@ w | *Boyanghu Lake 鄱阳湖* | O | Guangdong 广东省
 x | *Dongtinghu Lake 洞庭湖* | P | Hebei 河北省
 y | *Taihu Lake 太湖* | Q | Qinghai 青海省
 z | *Hongzehu Lake 洪泽湖* | R | Henan 河南省
-|| S | Sichuan 四川省
-|| U | Heilongjiang 黑龙江省
-|| V | Jilin 吉林省
-|| W | Liaoning 辽宁省
-|| X | Shandong 山东省
-|| Y | Yunnan 云南省
-|| Z | Zhejiang 浙江省
+||| S | Sichuan 四川省
+||| U | Heilongjiang 黑龙江省
+||| V | Jilin 吉林省
+||| W | Liaoning 辽宁省
+||| X | Shandong 山东省
+||| Y | Yunnan 云南省
+||| Z | Zhejiang 浙江省
 
 
 
